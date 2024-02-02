@@ -3,7 +3,7 @@ import tkinter as tk
 from tkinter import PhotoImage
 
 # Listas de elementos (en este caso, nombres de imágenes)
-primaryMission = ['PM1.png', 'PM2.png', 'PM3.png', 'PM4.png', 'PM5.png', 'PM6.png', 'PM7.png', 'PM8.png', 'PM9.png', 'PM10.png']
+primaryMission = ['PM1.png', 'PM2.png', 'PM3.png', 'PM4.png', 'PM5.png', 'PM6.png', 'PM7.png', 'PM8.png', 'PM9.png']
 missionRule = ['MR1.png', 'MR2.png', 'MR3.png', 'MR4.png']
 deployment = ['D1.png', 'D2.png', 'D3.png', 'D4.png', 'D5.png']
 
